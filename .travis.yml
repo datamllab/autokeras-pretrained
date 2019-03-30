@@ -7,7 +7,7 @@ install:
 - pip install pytest-cov
 - pip install coverage
 script:
-- pytest tests --cov=autokeras --cov-report xml:coverage.xml
+- pytest tests --cov=autokeras_pretrained --cov-report xml:coverage.xml
 after_success:
 - pip install python-coveralls && coveralls
 deploy:
