@@ -17,7 +17,7 @@ setup(
                       'unidecode',
                       'nltk==3.3',
                       'lws==1.2',
-                      'opencv-python==4.0.0.21',
+                      'opencv-python==4.2.0.32',
                       'boto3'],
     version='0.0.3',
     description='Pretrained models for Auto-Keras',
