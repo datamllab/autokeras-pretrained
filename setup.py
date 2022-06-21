@@ -7,7 +7,7 @@ setup(
     install_requires=['scipy==1.2.0',
                       'torch==1.0.1.post2',
                       'torchvision==0.2.1',
-                      'numpy==1.16.1',
+                      'numpy==1.22.0',
                       'scikit-image==0.14.2',
                       'imageio==2.5.0',
                       'requests==2.21.0',
